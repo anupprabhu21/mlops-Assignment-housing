@@ -100,5 +100,7 @@ This project is licensed under the MIT License.
 
 🙋‍♂️ Author
 Name: Anup Prabhu
+      SAMPADA BALGI
+      MEGHA TIWARI
 
-Email: your.email@example.com
+Email: anupprabhu1998@gmail.com
