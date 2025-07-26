@@ -1,0 +1,10 @@
+artifact_location: file:///home/user/mlops/mlops-Assignment-housing/src/mlruns/869914055250288358/models/m-da8a518dd9e64bfe947aab05a2e3f6ad/artifacts
+creation_timestamp: 1753505811311
+experiment_id: '869914055250288358'
+last_updated_timestamp: 1753505813240
+model_id: m-da8a518dd9e64bfe947aab05a2e3f6ad
+model_type: null
+name: model
+source_run_id: 5670ee3468534f428e15cd40a23848f8
+status: 2
+status_message: null

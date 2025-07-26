@@ -1,0 +1,14 @@
+artifact_uri: file:///home/user/mlops/mlops-Assignment-housing/src/mlruns/869914055250288358/6695100151c34fd3bd4ff23807decf8c/artifacts
+end_time: 1753505444721
+entry_point_name: ''
+experiment_id: '869914055250288358'
+lifecycle_stage: active
+run_id: 6695100151c34fd3bd4ff23807decf8c
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753505443099
+status: 4
+tags: []
+user_id: user

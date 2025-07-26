@@ -1,0 +1,6 @@
+artifact_location: file:///home/user/mlops/mlops-Assignment-housing/src/mlruns/869914055250288358
+creation_time: 1753505443038
+experiment_id: '869914055250288358'
+last_update_time: 1753505443038
+lifecycle_stage: active
+name: housing-experiment
